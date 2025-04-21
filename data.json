@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "name": "Amiel Along",
+    "age": 30,
+    "email": "amielalong@gmail.com",
+    "phone": "09636616265",
+    "address": {
+        "street": "tabing ilog Main St katabi nila sabino house",
+        "city": "dyan lang",
+        "state": "united state",
+        "zip": "123"
+    },
+    "company": {
+        "name": "Taga Luto ni ludo",
+        "position": "cook",
+        "department": "sa kusina"
+    }
+}
+
